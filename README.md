@@ -10,5 +10,5 @@
 ![1](https://github.com/user-attachments/assets/3589ad54-d3d1-4ff6-aa56-9b836fb1e4ff)
 
 -After dropping that specific row we replace NaN values with 0 and drop the row in the position of 574, we check for the datatypes for each column present in the dataset 
-
+![image](https://github.com/user-attachments/assets/6a9b337c-aeea-465b-a473-495563786f3a)
 
