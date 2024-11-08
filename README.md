@@ -1,6 +1,6 @@
 # Spotify-Dataset
  
-## Insights
+## Insights while cleaning the Dataset
 
 -While I was analyzing the dataset, I have noticed that there are particular values in some columns that have NaN values (missing values) and decided that instead of deleting their data I set that NaN values
 
@@ -24,4 +24,6 @@
 -I decided to drop the row with the fewer number of streams as to keep only one entry of the songs in the dataset
 ![image](https://github.com/user-attachments/assets/8198cec2-9655-4bca-a97a-cedcc8ad5783)
 
--
+## Data Analysis
+
+### Guide Questions
