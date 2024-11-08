@@ -9,10 +9,6 @@
 -In the column of streams there is one value in particular that I deducted was an error in the data gathering which is for the streams for the song "Love Grows (Where My Rosemary Goes)" by Edison Lighthouse where the value of streams is just a string with its characteristics instead of the usual integer value and so I deleted the song entirely from the dataframe as we cannot relate its characteristics without having a definite number of streams for the song
 ![1](https://github.com/user-attachments/assets/3589ad54-d3d1-4ff6-aa56-9b836fb1e4ff)
 
--After dropping that specific row we replace 
-## Changelog
-### 11/1/2024 
+-After dropping that specific row we replace NaN values with 0 and drop the row in the position of 574, we check for the datatypes for each column present in the dataset 
 
-### 11/6/2024 
--
 
