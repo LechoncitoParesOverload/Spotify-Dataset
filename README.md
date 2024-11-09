@@ -23,7 +23,7 @@
 
 -I decided to drop the row with the fewer number of streams as to keep only one entry of the songs in the dataset
 ![image](https://github.com/user-attachments/assets/8198cec2-9655-4bca-a97a-cedcc8ad5783)
--![image](https://github.com/user-attachments/assets/1aa5f92e-4a06-40e9-bf07-b80b5fc1a8e9)
+
 
 ## Data Analysis
 
